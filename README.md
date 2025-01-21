@@ -1,6 +1,14 @@
 # Cold_Mail_Generator_Tool
 This Cold Mail Generator Tool is a Python-based application designed to help users generate personalized cold emails efficiently. This tool is particularly useful for professionals, marketers, and sales teams who need to send outreach emails to potential clients or partners. The tool allows users to input specific details about the recipient and the purpose of the email, and it generates a professionally written cold email template.
 
+## Working of the model:
+
+
+
+
+
+https://github.com/user-attachments/assets/9f9621f2-bd55-4e70-9270-7b22a9082210
+
 ## Features:
 - Personalized Email Generation: Creates customized cold emails based on user inputs.
 - Dynamic Templates: Uses predefined templates that can be easily modified or extended.
@@ -34,13 +42,6 @@ cd Cold_Mail_Generator_Tool
 ```
 pip install -r requirements.txt
 ```
-## Working of the model:
-
-
-
-
-
-https://github.com/user-attachments/assets/9f9621f2-bd55-4e70-9270-7b22a9082210
 
 
 
