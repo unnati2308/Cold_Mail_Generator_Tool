@@ -34,3 +34,9 @@ cd Cold_Mail_Generator_Tool
 ```
 pip install -r requirements.txt
 ```
+## Working of the model:
+
+
+
+
+
