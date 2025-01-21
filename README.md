@@ -13,10 +13,13 @@ This Cold Mail Generator Tool is a Python-based application designed to help use
 - The tool uses web scraping libraries (e.g., BeautifulSoup or requests) to extract job details from the provided URL.
 - It identifies key information such as job title, company name, required skills, and job description.
 ### Email Generation:
-- Based on the extracted details, the tool selects an appropriate email template from templates.py.
+- Based on the extracted details, the tool selects an appropriate email template from *chains.py*.
 - It dynamically fills in the placeholders (e.g., job title, company name, skills) to create a personalized email.
 ### Output:
-- The generated email is displayed in the terminal and saved to a file for easy access.
+- The generated email is displayed on streamlit app by running the following code:
+  ```
+  streamlit run main.py
+  ```
 
 ## Installation:
 ### Clone the repository to your local machine:
